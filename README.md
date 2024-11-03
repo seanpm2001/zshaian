@@ -1,5 +1,3 @@
-# ✨ Profile Overview
-
 ## About Me
 
 I'm Frost, and I focus on web development.
