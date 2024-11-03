@@ -13,7 +13,7 @@ A list of some of my projects.
 |![Flag icon](./assets/icons/rest_countries_logo.svg)|[Rest Countries](https://github.com/Bear-Frost/Rest-Countries-With-Color-Theme-Switcher)|Search and find info about countries|
 |:-:|:-:|:-:|
 
-|**Built With:**|![React icon](./assets/icons/react_logo.svg) ![Javascript icon](./assets/icons/javascript_logo.svg)|
+|**Built With:**|![React icon](./assets/icons/react_logo.svg) ![Javascript icon](./assets/icons/javascript_logo.svg) ![Tailwind icon](./assets/icons/tailwind_logo.svg)|
 |:-:|:-:|
 ---
 |![Bear icon](./assets/icons/bears_logo.svg)|[3D Bears](https://github.com/Bear-Frost/3D-Bears)|Fun Project: 3D Bears|
