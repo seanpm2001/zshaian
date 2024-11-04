@@ -3,7 +3,7 @@
 I'm Frost, and I focus on web development.
 
 ## Developing
-A list of some of my projects.
+
 |![Bordex icon](https://i.imgur.com/yHKlCrh.png)|[Bordex](https://github.com/Bear-Frost/bordex)|A Javascript lirary to create a pre-styled border to an HTML element.|
 |:-:|:-:|:-:|
 |![Bordex icon](https://i.imgur.com/yHKlCrh.png)|[Bordex Documentation](https://github.com/Bear-Frost/bordex-docs)|A documentation for the JavaScript library Bordex.|
