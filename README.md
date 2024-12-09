@@ -1,3 +1,4 @@
+![meme](./assets/images/illustration.png)
 ## Developing
 
 |![Bordex icon](https://i.imgur.com/yHKlCrh.png)|[Bordex](https://github.com/Bear-Frost/bordex)|A Javascript lirary to create a pre-styled border to an HTML element.|
