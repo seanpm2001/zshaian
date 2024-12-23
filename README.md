@@ -1,5 +1,3 @@
-![wallpaper](./assets/images/wallpaper.png)
-
 ## Developing
 <div align="center">
 
